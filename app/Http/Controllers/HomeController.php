@@ -32,7 +32,6 @@ class HomeController extends Controller
         
         $textColor = $this->textColor();
         $isBlack = $textColor->input($r, $g, $b);
-        $request->session()->put('model', $textColor->getModel());
 
         $colors = [];
         for ($r = 0; $r <= 255; $r+=25) {
@@ -59,17 +58,15 @@ class HomeController extends Controller
             'b' => 'required|integer|min:0|max:255',
         ]);
 
-        $textColor = $this->textColor();
-        $textColor->learn((new Learn())->input($result['r'] / 255, $result['g'] / 255, $result['b'] / 255)->result($result['color'] === 'black'));
-
-        $request->session()->put('model', $textColor->getModel());
-
         $choice = new Choice();
         $choice->red = $result['r'];
         $choice->green = $result['g'];
         $choice->blue = $result['b'];
         $choice->is_black = $result['color'] === 'black';
         $choice->save();
+
+        $textColor = $this->learn();
+        $request->session()->put('model', $textColor->getModel());
 
         return redirect(route('home'));
     }
