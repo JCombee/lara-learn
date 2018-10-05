@@ -1,0 +1,378 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tool",
+				"toolbarLayer"
+			],
+			[
+				"clei",
+				"clientHeight"
+			],
+			[
+				"v-table",
+				"v-data-table\tData Table component - Vuetify"
+			],
+			[
+				"user",
+				"userType"
+			],
+			[
+				"perm",
+				"permission"
+			],
+			[
+				"va",
+				"validatedData"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"doc_",
+				"doc_f\tFunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Packag Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:searc",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/JCombee/Projects/lara-learn/resources/views/welcome.blade.php",
+		"/Users/JCombee/Projects/lara-learn/routes/web.php",
+		"/Users/JCombee/Projects/lara-learn/app/Http/Controllers/HomeController.php",
+		"/Users/JCombee/Projects/lara-learn/app/NeuralModels/TextColor.php",
+		"/Users/JCombee/Projects/no-brainer/client/src/components/Canvas/Neuron.js",
+		"/Users/JCombee/Projects/no-brainer/client/src/components/Canvas/Toolbar.js",
+		"/Users/JCombee/Projects/no-brainer/client/src/components/Canvas/Canvas.vue",
+		"/Users/JCombee/Projects/no-brainer/client/src/router/index.js",
+		"/Users/JCombee/Projects/no-brainer/client/src/App.vue",
+		"/Users/JCombee/Projects/no-brainer/client/src/main.js",
+		"/Users/JCombee/Projects/no-brainer/test/index.html",
+		"/Users/JCombee/Projects/doesit200/client/src/store/index.js",
+		"/Users/JCombee/Projects/cless-party/butter-cheese-egs/client/src/components/Grid.vue",
+		"/Users/JCombee/Projects/cless-party/butter-cheese-egs/client/src/App.vue",
+		"/Users/JCombee/Projects/cless-party/butter-cheese-egs/server/package.json",
+		"/Users/JCombee/Projects/cless-party/butter-cheese-egs/client/src/router/index.js",
+		"/Users/JCombee/Projects/cless-party/butter-cheese-egs/client/package.json",
+		"/Users/JCombee/Projects/doesit200/client/src/main.js",
+		"/Users/JCombee/Projects/doesit200/client/src/feathers-client.js",
+		"/Users/JCombee/Projects/iteam-server/src/services/index.js",
+		"/Users/JCombee/Projects/iteam-server/src/services/messages/messages.hooks.js",
+		"/Users/JCombee/Projects/iteam-server/src/hooks/process-message.js",
+		"/Users/JCombee/Projects/iteam-server/src/hooks/gravatar.js",
+		"/Users/JCombee/Projects/iteam-server/src/hooks/populate-user.js",
+		"/Users/JCombee/Projects/iteam-server/public/index.html",
+		"/Users/JCombee/Projects/iteam-server/public/app.js",
+		"/Users/JCombee/Projects/yt-party-server/search.js",
+		"/Users/JCombee/Projects/yt-party-server/client.js",
+		"/Users/JCombee/Projects/yt-party-client/src/App.vue",
+		"/Users/JCombee/Projects/yt-party-server/package.json",
+		"/Users/JCombee/Projects/yt-party-server/ml.js",
+		"/Users/JCombee/Projects/doesit200-client/build/webpack.base.conf.js",
+		"/Users/JCombee/Projects/doesit200-client/.postcssrc.js",
+		"/Users/JCombee/Projects/doesit200-client/build/build.js",
+		"/Users/JCombee/Projects/doesit200-client/index.html",
+		"/Users/JCombee/Projects/doesit200-client/src/sw.js",
+		"/Users/JCombee/Projects/doesit200-client/build/service-worker-dev.js",
+		"/Users/JCombee/Projects/doesit200-server/vendor/laravel/passport/src/Passport.php",
+		"/Users/JCombee/Projects/doesit200-server/resources/views/home.blade.php",
+		"/Users/JCombee/Projects/doesit200-server/.env",
+		"/Users/JCombee/Projects/doesit200-server/app/User.php",
+		"/Users/JCombee/Projects/doesit200-server/app/Providers/AuthServiceProvider.php",
+		"/Users/JCombee/Projects/doesit200-server/config/auth.php",
+		"/Users/JCombee/Projects/doesit200-server/resources/assets/js/app.js",
+		"/Users/JCombee/Projects/doesit200-server/resources/views/layouts/app.blade.php",
+		"/Users/JCombee/Projects/doesit200/resources/assets/js/components/passport/AuthorizedClients.vue",
+		"/Users/JCombee/Projects/doesit200/resources/views/welcome.blade.php",
+		"/Users/JCombee/Projects/doesit200/resources/assets/js/app.js",
+		"/Users/JCombee/Projects/doesit200/resources/assets/js/components/PassportComponent.vue",
+		"/Users/JCombee/Projects/doesit200/app/Providers/AuthServiceProvider.php",
+		"/Users/JCombee/Projects/doesit200/config/auth.php",
+		"/Users/JCombee/Projects/doesit200/app/User.php",
+		"/Users/JCombee/Projects/doesit200/resources/assets/sass/app.scss",
+		"/Users/JCombee/Projects/doesit200/resources/assets/js/components/LayoutComponent.vue",
+		"/Users/JCombee/Projects/doesit200/vendor/laravel/passport/src/HasApiTokens.php",
+		"/Users/JCombee/Projects/doesit200/resources/assets/js/bootstrap.js",
+		"/Users/JCombee/Projects/doesit200/.env",
+		"/Users/JCombee/Projects/tales-of-a-sword/resources/assets/js/components/Board/Circle.vue",
+		"/Users/JCombee/Projects/tales-of-a-sword/resources/assets/js/components/Board/Cross.vue",
+		"/Users/JCombee/Projects/tales-of-a-sword/resources/views/welcome.blade.php",
+		"/Users/JCombee/Projects/tales-of-a-sword/resources/assets/js/components/Board/index.vue",
+		"/Users/JCombee/Projects/tales-of-a-sword/resources/assets/js/app.js",
+		"/Users/JCombee/Projects/voyager-test/app/Http/Controllers/VoyagerController.php",
+		"/Users/JCombee/Projects/voyager-test/app/Providers/AppServiceProvider.php",
+		"/Users/JCombee/Projects/voyager-test/.env",
+		"/Users/JCombee/Projects/voyager-test/composer.json",
+		"/Users/JCombee/Projects/voyager-test/database/seeds/DatabaseSeeder.php",
+		"/Users/JCombee/Projects/voyager-test/config/app.php",
+		"/Users/JCombee/Projects/voyager-test/database/.gitignore",
+		"/Users/JCombee/Projects/voyager-test/config/voyager.php",
+		"/Users/JCombee/Projects/tijdspaarders/database/seeds/RoleSeeder.php",
+		"/Users/JCombee/Projects/tijdspaarders/app/Http/Controllers/Admin/UsersController.php",
+		"/Users/JCombee/Projects/tijdspaarders/routes/web.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/admin/users/edit.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/admin/users/index.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/admin/users/confirm-destroy.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/admin/users/create.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/database/migrations/2018_07_19_082725_alter_users_nullable_fields.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Session/Store.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Cache/ArrayStore.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/Users/JCombee/Projects/tijdspaarders/app/User.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php",
+		"/Users/JCombee/Projects/tijdspaarders/database/migrations/2018_07_12_145528_create_user_type_users_table.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/layouts/navbar-side.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/admin/user-types/edit.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/app/Http/Controllers/Admin/UserTypesController.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/admin/user-types/confirm-destroy.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/admin/user-types/index.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/admin/user-types/create.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/ultraware/roles/src/Models/Permission.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/ultraware/roles/src/Traits/Slugable.php",
+		"/Users/JCombee/Projects/tijdspaarders/app/UserType.php",
+		"/Users/JCombee/Projects/tijdspaarders/database/migrations/2013_06_20_101724_create_user_types_table.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/admin/index.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/app/Http/Kernel.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/roles/roles.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/database/seeds/DatabaseSeeder.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Support/HigherOrderTapProxy.php",
+		"/Users/JCombee/Projects/tijdspaarders/app/Http/Controllers/Roles/RoleController.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/roles/edit.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/roles/confirm-destroy.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/auth/profile.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/app/Rules/UniqueSlug.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/roles/create.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/ultraware/roles/src/Models/Role.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/ultraware/roles/src/Traits/RoleHasRelations.php",
+		"/Users/JCombee/Projects/tijdspaarders/app/Http/Controllers/Controller.php",
+		"/Users/JCombee/Projects/tijdspaarders/config/app.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+		"/Users/JCombee/Projects/tijdspaarders/app/Http/Controllers/ProfileController.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Validation/Factory.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php",
+		"/Users/JCombee/Projects/tijdspaarders/vendor/symfony/http-kernel/HttpCache/HttpCache.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/layouts/navbar-top.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/home.blade.php",
+		"/Users/JCombee/Projects/tijdspaarders/resources/views/layouts/app.blade.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"number",
+			"r",
+			"g",
+			"r",
+			"logout-form",
+			">\n",
+			"layer",
+			"Neuron",
+			";",
+			"div",
+			"    // const stage = new Konva.Stage({\n    //   container: 'container',\n    //   width: width,\n    //   height: height\n    // })",
+			" :",
+			";",
+			"export",
+			"width",
+			"with",
+			"width",
+			"handleClick",
+			"old",
+			"stage",
+			"X",
+			"circle",
+			"stage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "cool_dine.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"createusertypeuser",
+				"database/migrations/2018_07_12_145528_create_user_type_users_table.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 774.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
